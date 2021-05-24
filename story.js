@@ -1,5 +1,5 @@
 let fName = 'saleh';
-let age = '30';
+let age = 30;
 let hobby = 'Codding';
 
 console.log(
